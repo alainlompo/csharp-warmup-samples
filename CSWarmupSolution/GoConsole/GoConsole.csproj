@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArraysDemo.cs" />
+    <Compile Include="AttributesDemo1.cs" />
     <Compile Include="DestroyerDemo.cs" />
     <Compile Include="Employe.cs" />
     <Compile Include="Employees.cs" />

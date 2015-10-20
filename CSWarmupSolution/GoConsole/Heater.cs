@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.EnterpriseServices;
 
 namespace GoConsole
 {
+    [Transaction(TransactionOption.Supported)]
     class Heater
     {
         private int currentTemperature = 15;

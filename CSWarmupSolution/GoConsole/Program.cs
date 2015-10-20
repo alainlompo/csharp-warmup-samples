@@ -35,6 +35,9 @@ namespace GoConsole
             Console.WriteLine("Indexer demo .......................");
             IndexerDemo.DoDemo();
 
+            Console.ReadKey();
+            Console.WriteLine();
+            AttributesDemo1.DoAttributesDemo1();
 
             Console.ReadKey();
             Console.WriteLine();
