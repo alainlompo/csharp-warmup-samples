@@ -43,8 +43,11 @@
   <ItemGroup>
     <Compile Include="ArraysDemo.cs" />
     <Compile Include="DestroyerDemo.cs" />
+    <Compile Include="Employe.cs" />
+    <Compile Include="Employees.cs" />
     <Compile Include="ExceptionHandlingDemo.cs" />
     <Compile Include="Heater.cs" />
+    <Compile Include="IndexerDemo.cs" />
     <Compile Include="IntArrHolder.cs" />
     <Compile Include="MethodOverloader.cs" />
     <Compile Include="OperatorOverloadingDemo.cs" />

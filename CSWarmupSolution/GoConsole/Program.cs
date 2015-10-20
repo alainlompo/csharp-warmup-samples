@@ -29,6 +29,13 @@ namespace GoConsole
             Console.WriteLine("Operator overload demo...");
             OperatorOverloadingDemo.DoArrayPlusDemo();
 
+
+            Console.ReadKey();
+            Console.WriteLine();
+            Console.WriteLine("Indexer demo .......................");
+            IndexerDemo.DoDemo();
+
+
             Console.ReadKey();
             Console.WriteLine();
             Console.WriteLine("Now heating and cooling demo ....");
