@@ -10,7 +10,14 @@ namespace GoConsole
     {
         public static void Main(string[] args)
         {
+            // The classic Hello World
             WorldGreeter.greetTheWorld();
+
+            // Exception handling demo
+            ExceptionHandlingDemo.DoExceptionDemo();
+            Console.ReadKey();
+
+
 
         }
     }
