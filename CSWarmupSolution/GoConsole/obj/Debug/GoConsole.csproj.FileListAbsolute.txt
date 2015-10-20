@@ -1,0 +1,5 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole\bin\Debug\GoConsole.exe.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole\bin\Debug\GoConsole.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole\bin\Debug\GoConsole.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole\obj\Debug\GoConsole.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole\obj\Debug\GoConsole.pdb

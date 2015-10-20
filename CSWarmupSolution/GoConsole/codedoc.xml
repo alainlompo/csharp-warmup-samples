@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Program</name>
+    </assembly>
+    <members>
+        <member name="T:GoConsole.WorldGreeter">
+            <summary>
+            Simple class with a static method in it.
+            The Console object provides us with handy methods to read and write from and to the Console
+            <remarks>You can use special tags to specialize to customize your class documentation</remarks>
+            </summary>
+        </member>
+    </members>
+</doc>
