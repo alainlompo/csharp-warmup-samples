@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="ArraysDemo.cs" />
     <Compile Include="AttributesDemo1.cs" />
+    <Compile Include="CodeStateAttribute.cs" />
     <Compile Include="DestroyerDemo.cs" />
     <Compile Include="Employe.cs" />
     <Compile Include="Employees.cs" />
