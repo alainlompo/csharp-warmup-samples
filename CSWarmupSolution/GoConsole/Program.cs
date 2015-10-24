@@ -40,6 +40,13 @@ namespace GoConsole
             AttributesDemo1.DoAttributesDemo1();
 
             Console.WriteLine();
+            Console.WriteLine(" Illustrating the Action<T> delegate ....");
+            Console.WriteLine();
+            ActionTDemo.DoDemo();
+
+
+
+            Console.WriteLine();
             Console.WriteLine("Now simple word interop demo....");
             string filePath = @"C:\Hypernovae\Life\My Books\Douze Voeux\Douze Voeux.docx";
             String authorName = SimpleWordInterop.DoInteropDemo(filePath);
