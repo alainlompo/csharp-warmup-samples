@@ -39,6 +39,13 @@ namespace GoConsole
             Console.WriteLine();
             AttributesDemo1.DoAttributesDemo1();
 
+            Console.WriteLine();
+            Console.WriteLine("Now simple word interop demo....");
+            string filePath = @"C:\Hypernovae\Life\My Books\Douze Voeux\Douze Voeux.docx";
+            String authorName = SimpleWordInterop.DoInteropDemo(filePath);
+            Console.WriteLine("L'auteur du livre <Douze Voeux> est: " + authorName);
+            Console.WriteLine();
+
             Console.ReadKey();
             Console.WriteLine();
             Console.WriteLine("Now heating and cooling demo ....");
