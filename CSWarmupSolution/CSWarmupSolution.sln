@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoConsole", "GoConsole\GoConsole.csproj", "{067375E2-0520-4691-8F2B-3F06D93C4A54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFunctional", "GoFunctional\GoFunctional.csproj", "{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{067375E2-0520-4691-8F2B-3F06D93C4A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067375E2-0520-4691-8F2B-3F06D93C4A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067375E2-0520-4691-8F2B-3F06D93C4A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
