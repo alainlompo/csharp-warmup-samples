@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GoConsole.events.handling;
 
 namespace GoConsole
 {
@@ -44,7 +45,10 @@ namespace GoConsole
             Console.WriteLine();
             ActionTDemo.DoDemo();
 
-
+            Console.WriteLine();
+            Console.WriteLine(" Illustrating classic .Net event handling approach.... ");
+            ButtonEventHandlingDemo eventHD = new ButtonEventHandlingDemo();
+            eventHD.DoButtonEventHandlingDemo();
 
             Console.WriteLine();
             Console.WriteLine("Now simple word interop demo....");

@@ -52,6 +52,9 @@
     <Compile Include="DestroyerDemo.cs" />
     <Compile Include="Employe.cs" />
     <Compile Include="Employees.cs" />
+    <Compile Include="events.handling\Button.cs" />
+    <Compile Include="events.handling\ButtonClickEventArgs.cs" />
+    <Compile Include="events.handling\ButtonEventHandlingDemo.cs" />
     <Compile Include="ExceptionHandlingDemo.cs" />
     <Compile Include="Heater.cs" />
     <Compile Include="IndexerDemo.cs" />
