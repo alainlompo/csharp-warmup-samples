@@ -8,6 +8,8 @@ namespace GoConsole.events.handling
 {
     class Button
     {
+        // The Button class defines to events of type EventHandler
+        // They are delegate for method of signature void (Object sender, EventArgs e)
         public EventHandler Click { get; set; }
         public EventHandler Clicked { get; set; }
 
