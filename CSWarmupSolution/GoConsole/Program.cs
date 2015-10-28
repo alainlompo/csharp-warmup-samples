@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GoConsole.enumeretable;
 using GoConsole.events.handling;
 
 namespace GoConsole
@@ -39,6 +40,11 @@ namespace GoConsole
             Console.ReadKey();
             Console.WriteLine();
             AttributesDemo1.DoAttributesDemo1();
+
+
+            Console.WriteLine("Illustrating IEnumerable....");
+            IEnumerableDemo demo = new IEnumerableDemo();
+            demo.DoIEnumerableDemo();
 
             Console.WriteLine();
             Console.WriteLine(" Illustrating the Action<T> delegate ....");
