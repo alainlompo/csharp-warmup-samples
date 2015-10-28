@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GoFunctional.linq.datasources;
 using GoFunctional.linq.extension.methods;
 
 namespace GoFunctional
@@ -28,6 +29,16 @@ namespace GoFunctional
                 Console.WriteLine(src + " is not a palyndrome....");
             }
 
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine(" Illustrate customized data source for linq....");
+            TextDataSource dataSource = new TextDataSource();
+            dataSource.fromMemory("Un break de batterie \n Coule sur la FM \n Et se mele a mon sang pour faire de moi...");
+            var result = from f in dataSource
+                         where f.getReservoir().Count == 3
+                         select f.getReservoir()[1];
+            Console.WriteLine(result);
             Console.ReadKey();
         }
     }
