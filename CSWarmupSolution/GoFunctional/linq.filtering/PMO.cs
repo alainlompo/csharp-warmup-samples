@@ -12,6 +12,8 @@ namespace GoFunctional.linq.filtering
         {
         }
 
+        public PMO(double salary, string country) : base(salary, country) { }
+
         public PMO(double salary):base()
         {
             this.salary = salary;

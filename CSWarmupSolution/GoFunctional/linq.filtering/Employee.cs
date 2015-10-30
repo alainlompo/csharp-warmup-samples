@@ -11,6 +11,14 @@ namespace GoFunctional.linq.filtering
         protected static int count = 0;
         protected int number;
         protected double salary;
+        protected string country;
+
+
+        public Employee(double salary, string country)
+        {
+            this.salary = salary;
+            this.country = country;
+        }
 
         public Employee(double salary)
         {
@@ -28,6 +36,11 @@ namespace GoFunctional.linq.filtering
         public double GetSalary()
         {
             return salary;
+        }
+
+        public string GetCountry()
+        {
+            return country;
         }
 
     }

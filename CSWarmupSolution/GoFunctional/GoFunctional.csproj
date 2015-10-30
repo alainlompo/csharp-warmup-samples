@@ -47,6 +47,7 @@
     <Compile Include="linq.filtering\Employee.cs" />
     <Compile Include="linq.filtering\OfTypeDemo.cs" />
     <Compile Include="linq.filtering\PMO.cs" />
+    <Compile Include="linq.grouping\GroupByDemo.cs" />
     <Compile Include="linq.ordering\OrderByDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

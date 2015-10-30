@@ -9,6 +9,7 @@ namespace GoFunctional.linq.filtering
     class CEO:Employee
     {
         public CEO() { }
+        public CEO(double salary, string country) : base(salary, country) { }
         public CEO(double salary) : base() { this.salary = salary; }
         public override void Present()
         {
