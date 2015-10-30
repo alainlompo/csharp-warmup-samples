@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using GoFunctional.linq.datasources;
 using GoFunctional.linq.extension.methods;
+using GoFunctional.linq.filtering;
 
 namespace GoFunctional
 {
@@ -39,6 +40,11 @@ namespace GoFunctional
                          where f.getReservoir().Count == 3
                          select f.getReservoir()[1];
             Console.WriteLine(result);
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("OfType demo .......");
+            OfTypeDemo.DoOfTypeDemo();
             Console.ReadKey();
         }
     }
