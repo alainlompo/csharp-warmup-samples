@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using GoFunctional.linq.datasources;
 using GoFunctional.linq.extension.methods;
 using GoFunctional.linq.filtering;
+using GoFunctional.linq.ordering;
 
 namespace GoFunctional
 {
@@ -45,6 +46,11 @@ namespace GoFunctional
             Console.WriteLine();
             Console.WriteLine("OfType demo .......");
             OfTypeDemo.DoOfTypeDemo();
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("Now an order by descending demo....");
+            OrderByDemo.DoOrderByDemo();
             Console.ReadKey();
         }
     }
