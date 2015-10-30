@@ -8,6 +8,7 @@ using GoFunctional.linq.extension.methods;
 using GoFunctional.linq.filtering;
 using GoFunctional.linq.grouping;
 using GoFunctional.linq.ordering;
+using GoFunctional.linq.querie.multisource;
 
 namespace GoFunctional
 {
@@ -57,6 +58,11 @@ namespace GoFunctional
             Console.WriteLine();
             Console.WriteLine("Now a group by demo ....");
             GroupByDemo.DoGroupByDemo();
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("A multi source query demo ....");
+            MultiSourceLinqQueries.DoMultiSourceQueryDemo();
             Console.ReadKey();
         }
     }
