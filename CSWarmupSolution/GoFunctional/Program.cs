@@ -9,6 +9,7 @@ using GoFunctional.linq.filtering;
 using GoFunctional.linq.grouping;
 using GoFunctional.linq.ordering;
 using GoFunctional.linq.querie.multisource;
+using GoFunctional.linq.zippping;
 
 namespace GoFunctional
 {
@@ -68,6 +69,11 @@ namespace GoFunctional
             Console.WriteLine();
             Console.WriteLine("... using selectMany... ");
             MultiSourceLinqQueries.DoSelectManyDemo();
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("Now a linq zipping demo....");
+            LinqZippingDemo.DoZippingDemo();
             Console.ReadKey();
         }
     }

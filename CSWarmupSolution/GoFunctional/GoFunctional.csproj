@@ -50,6 +50,7 @@
     <Compile Include="linq.grouping\GroupByDemo.cs" />
     <Compile Include="linq.ordering\OrderByDemo.cs" />
     <Compile Include="linq.querie.multisource\MultiSourceLinqQueries.cs" />
+    <Compile Include="linq.zippping\LinqZippingDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TemperatureConverter.cs" />
