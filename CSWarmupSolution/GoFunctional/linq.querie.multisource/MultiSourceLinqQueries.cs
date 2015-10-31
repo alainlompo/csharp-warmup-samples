@@ -22,5 +22,18 @@ namespace GoFunctional.linq.querie.multisource
             }
         }
 
+        public static void DoSelectManyDemo()
+        {
+            var products = fromZeroToTen.SelectMany(
+                x => fromZeroToTen,
+                (x,y) => x* y
+                );
+
+            foreach (var v in products)
+            {
+                Console.WriteLine(v + " .. ");
+            }
+        }
+
     }
 }

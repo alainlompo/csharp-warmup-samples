@@ -64,6 +64,11 @@ namespace GoFunctional
             Console.WriteLine("A multi source query demo ....");
             MultiSourceLinqQueries.DoMultiSourceQueryDemo();
             Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("... using selectMany... ");
+            MultiSourceLinqQueries.DoSelectManyDemo();
+            Console.ReadKey();
         }
     }
 }
