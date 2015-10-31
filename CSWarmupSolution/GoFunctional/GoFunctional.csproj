@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="linq.aggregations\AggregationDemo.cs" />
+    <Compile Include="linq.aggregations\Transaction.cs" />
+    <Compile Include="linq.aggregations\TransactionManager.cs" />
     <Compile Include="linq.datasources\TextDataSource.cs" />
     <Compile Include="linq.extension.methods\StringUtils.cs" />
     <Compile Include="linq.filtering\CEO.cs" />
@@ -50,6 +53,7 @@
     <Compile Include="linq.grouping\GroupByDemo.cs" />
     <Compile Include="linq.ordering\OrderByDemo.cs" />
     <Compile Include="linq.querie.multisource\MultiSourceLinqQueries.cs" />
+    <Compile Include="linq.taking.and.skipping\TakingAndSkippingDemo.cs" />
     <Compile Include="linq.zippping\LinqZippingDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -58,6 +62,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -10,6 +10,8 @@ using GoFunctional.linq.grouping;
 using GoFunctional.linq.ordering;
 using GoFunctional.linq.querie.multisource;
 using GoFunctional.linq.zippping;
+using GoFunctional.linq.taking.and.skipping;
+using GoFunctional.linq.aggregations;
 
 namespace GoFunctional
 {
@@ -74,6 +76,16 @@ namespace GoFunctional
             Console.WriteLine();
             Console.WriteLine("Now a linq zipping demo....");
             LinqZippingDemo.DoZippingDemo();
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("Take and skip demo...");
+            TakingAndSkippingDemo.DoSkipAndTakeDemo(3, 10);
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("Aggregation demo on sum...");
+            AggregationDemo.DoAggregationDemo();
             Console.ReadKey();
         }
     }
