@@ -87,6 +87,11 @@ namespace GoFunctional
             Console.WriteLine("Aggregation demo on sum...");
             AggregationDemo.DoAggregationDemo();
             Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("Using the Aggregate method ...");
+            AggregationDemo.DoDemoWithAggregate();
+            Console.ReadKey();
         }
     }
 }
