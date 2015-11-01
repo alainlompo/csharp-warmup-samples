@@ -12,6 +12,7 @@ using GoFunctional.linq.querie.multisource;
 using GoFunctional.linq.zippping;
 using GoFunctional.linq.taking.and.skipping;
 using GoFunctional.linq.aggregations;
+using GoFunctional.linq.joining;
 
 namespace GoFunctional
 {
@@ -91,6 +92,10 @@ namespace GoFunctional
             Console.WriteLine();
             Console.WriteLine("Using the Aggregate method ...");
             AggregationDemo.DoDemoWithAggregate();
+            Console.ReadKey();
+            Console.WriteLine();
+            Console.WriteLine("Do join demo....");
+            LinqJoinDemo.DoLinqJoinDemo();
             Console.ReadKey();
         }
     }
