@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoConsole", "GoConsole\GoCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFunctional", "GoFunctional\GoFunctional.csproj", "{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCollections", "GoCollections\GoCollections.csproj", "{B068F5DB-6582-4429-B9BA-27EF5A21D07C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50FDAA3F-C2D4-45A8-BF70-8F6035DD6362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B068F5DB-6582-4429-B9BA-27EF5A21D07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B068F5DB-6582-4429-B9BA-27EF5A21D07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B068F5DB-6582-4429-B9BA-27EF5A21D07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B068F5DB-6582-4429-B9BA-27EF5A21D07C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
