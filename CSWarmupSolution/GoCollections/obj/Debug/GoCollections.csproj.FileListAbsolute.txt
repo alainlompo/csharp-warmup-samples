@@ -1,4 +1,3 @@
-C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoCollections\obj\Debug\GoCollections.csprojResolveAssemblyReference.cache
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoCollections\bin\Debug\GoCollections.exe.config
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoCollections\bin\Debug\GoCollections.exe
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoCollections\bin\Debug\GoCollections.pdb
