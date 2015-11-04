@@ -1,0 +1,6 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStrings\bin\Debug\GoStrings.exe.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStrings\bin\Debug\GoStrings.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStrings\bin\Debug\GoStrings.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStrings\obj\Debug\GoStrings.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStrings\obj\Debug\GoStrings.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStrings\obj\Debug\GoStrings.pdb
