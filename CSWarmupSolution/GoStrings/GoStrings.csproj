@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CultureInfoShow.cs" />
+    <Compile Include="DecodingShow.cs" />
     <Compile Include="EncodingShow.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

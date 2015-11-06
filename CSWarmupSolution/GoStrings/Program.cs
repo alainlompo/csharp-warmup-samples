@@ -14,6 +14,11 @@ namespace GoStrings
             CultureInfoShow.DoCultureInfoShow();
             Console.ReadKey();
             EncodingShow.DoEncodingShow();
+
+            Console.WriteLine("Now decoding show .....");
+            DecodingShow.DemoDecode();
+            Console.ReadKey();
+
         }
     }
 }
