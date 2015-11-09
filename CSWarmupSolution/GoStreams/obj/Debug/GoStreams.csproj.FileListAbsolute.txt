@@ -1,0 +1,5 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStreams\bin\Debug\GoStreams.exe.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStreams\bin\Debug\GoStreams.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStreams\bin\Debug\GoStreams.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStreams\obj\Debug\GoStreams.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoStreams\obj\Debug\GoStreams.pdb

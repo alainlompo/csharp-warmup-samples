@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCollections", "GoCollecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoStrings", "GoStrings\GoStrings.csproj", "{8B99D893-D453-4192-97E4-A0BF7809A42F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoStreams", "GoStreams\GoStreams.csproj", "{B1269408-47BE-4749-9F7C-145DAC4A280E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{8B99D893-D453-4192-97E4-A0BF7809A42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B99D893-D453-4192-97E4-A0BF7809A42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B99D893-D453-4192-97E4-A0BF7809A42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1269408-47BE-4749-9F7C-145DAC4A280E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1269408-47BE-4749-9F7C-145DAC4A280E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1269408-47BE-4749-9F7C-145DAC4A280E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1269408-47BE-4749-9F7C-145DAC4A280E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
