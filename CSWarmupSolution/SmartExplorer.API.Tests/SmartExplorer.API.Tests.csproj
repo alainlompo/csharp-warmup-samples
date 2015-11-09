@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>8200aca6-c57c-4ae0-be97-3530e898f6cf</ProjectGuid>
+    <ProjectGuid>{CC3EA627-B970-4796-951F-C061809C6E4F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SmartExplorer.API.Tests</RootNamespace>
