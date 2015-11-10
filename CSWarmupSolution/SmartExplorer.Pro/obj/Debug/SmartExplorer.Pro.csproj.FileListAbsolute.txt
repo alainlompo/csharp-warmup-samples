@@ -1,0 +1,13 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\bin\Debug\SmartExplorer.Pro.exe.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\bin\Debug\SmartExplorer.Pro.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\bin\Debug\SmartExplorer.Pro.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\SmartExplorer.Pro.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\MainWindow.baml
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\MainWindow.g.cs
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\App.g.cs
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\SmartExplorer.Pro_MarkupCompile.cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\SmartExplorer.Pro.g.resources
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\SmartExplorer.Pro.Properties.Resources.resources
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\SmartExplorer.Pro.csproj.GenerateResource.Cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\SmartExplorer.Pro.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Pro\obj\Debug\SmartExplorer.Pro.pdb

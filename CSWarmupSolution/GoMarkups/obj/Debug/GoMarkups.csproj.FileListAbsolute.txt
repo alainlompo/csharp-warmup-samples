@@ -1,0 +1,5 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoMarkups\bin\Debug\GoMarkups.exe.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoMarkups\bin\Debug\GoMarkups.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoMarkups\bin\Debug\GoMarkups.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoMarkups\obj\Debug\GoMarkups.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoMarkups\obj\Debug\GoMarkups.pdb

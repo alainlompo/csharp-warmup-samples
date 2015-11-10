@@ -1,0 +1,8 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\bin\Debug\SmartExplorer.Desktop.exe.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\bin\Debug\SmartExplorer.Desktop.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\bin\Debug\SmartExplorer.Desktop.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\obj\Debug\SmartExplorer.Desktop.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\obj\Debug\SmartExplorer.Desktop.Properties.Resources.resources
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\obj\Debug\SmartExplorer.Desktop.csproj.GenerateResource.Cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\obj\Debug\SmartExplorer.Desktop.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.Desktop\obj\Debug\SmartExplorer.Desktop.pdb
