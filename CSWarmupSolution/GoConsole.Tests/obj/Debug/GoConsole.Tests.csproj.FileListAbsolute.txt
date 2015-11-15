@@ -1,0 +1,7 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole.Tests\obj\Debug\GoConsole.Tests.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole.Tests\bin\Debug\GoConsole.Tests.dll
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole.Tests\bin\Debug\GoConsole.Tests.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole.Tests\bin\Debug\GoConsole.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole.Tests\bin\Debug\GoConsole.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole.Tests\obj\Debug\GoConsole.Tests.dll
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoConsole.Tests\obj\Debug\GoConsole.Tests.pdb

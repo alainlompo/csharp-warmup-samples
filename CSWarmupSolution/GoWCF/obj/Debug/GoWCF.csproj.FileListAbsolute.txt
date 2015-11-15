@@ -1,0 +1,5 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoWCF\bin\Debug\GoWCF.dll.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoWCF\bin\Debug\GoWCF.dll
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoWCF\bin\Debug\GoWCF.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoWCF\obj\Debug\GoWCF.dll
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoWCF\obj\Debug\GoWCF.pdb

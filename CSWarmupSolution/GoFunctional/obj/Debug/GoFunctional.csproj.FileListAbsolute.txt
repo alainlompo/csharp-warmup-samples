@@ -3,4 +3,3 @@ C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoFu
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoFunctional\bin\Debug\GoFunctional.pdb
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoFunctional\obj\Debug\GoFunctional.exe
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoFunctional\obj\Debug\GoFunctional.pdb
-C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\GoFunctional\obj\Debug\GoFunctional.csprojResolveAssemblyReference.cache

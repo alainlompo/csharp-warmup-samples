@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GoConsole.enumeretable
 {
-    class Enumeratorable<T>
+    public class Enumeratorable<T>
     {
         public IEnumerable<String> AffectRank(IEnumerable<T> objects)
         {
