@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
@@ -19,7 +20,8 @@ namespace GoWCF
 
         void IMessagingService.SendSimpleMessage(string originator, string destinator, string message)
         {
-            throw new NotImplementedException();
+            Debug.WriteLine("from: {0} to {1}, message is: {2}", originator, destinator, message);
+
         }
     }
 }
