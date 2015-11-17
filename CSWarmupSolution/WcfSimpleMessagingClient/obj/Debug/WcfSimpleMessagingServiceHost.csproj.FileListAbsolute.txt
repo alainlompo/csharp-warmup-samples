@@ -1,0 +1,8 @@
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\bin\Debug\WcfSimpleMessagingClient.exe.config
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\bin\Debug\WcfSimpleMessagingClient.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\bin\Debug\WcfSimpleMessagingClient.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\bin\Debug\GoWCF.dll
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\bin\Debug\GoWCF.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\obj\Debug\WcfSimpleMessagingServiceHost.csprojResolveAssemblyReference.cache
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\obj\Debug\WcfSimpleMessagingClient.exe
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\WcfSimpleMessagingClient\obj\Debug\WcfSimpleMessagingClient.pdb
