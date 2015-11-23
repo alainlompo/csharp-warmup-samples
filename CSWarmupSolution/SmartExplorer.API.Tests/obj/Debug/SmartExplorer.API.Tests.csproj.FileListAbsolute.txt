@@ -2,3 +2,4 @@ C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\Smar
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.API.Tests\bin\Debug\SmartExplorer.API.Tests.pdb
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.API.Tests\obj\Debug\SmartExplorer.API.Tests.dll
 C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.API.Tests\obj\Debug\SmartExplorer.API.Tests.pdb
+C:\Hypernovae\Technical\repositories\csharp-warmup-samples\CSWarmupSolution\SmartExplorer.API.Tests\obj\Debug\SmartExplorer.API.Tests.csprojResolveAssemblyReference.cache
