@@ -12,6 +12,10 @@ namespace GoNetworking
         static void Main(string[] args)
         {
             RequestAndResponseDemo.DoRequestResponseDemo();
+            IPAdressFinder.DoLocalhostDemo();
+            Console.Write("Input a url, example:google.com: ");
+            string url = Console.ReadLine();
+            IPAdressFinder.DoAnyUrlDemo(url);
 
         }
     }
