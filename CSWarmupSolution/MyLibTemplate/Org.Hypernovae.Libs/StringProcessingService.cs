@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyLibTemplate.Org.Hypernovae.Libs
 {
-    public class StringProcessingService:ServiceContract<String, String>
+    internal class StringProcessingService:ServiceContract<String, String>
     {
         public override string executeContract(string inData)
         {

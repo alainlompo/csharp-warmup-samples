@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyLibTemplate.Org.Hypernovae.Libs
 {
-    public class ServiceContract<T,U>:IServiceContractTemplate<T,U>
+    internal class ServiceContract<T,U>:IServiceContractTemplate<T,U>
     {
 
         public virtual U executeContract(T inData)

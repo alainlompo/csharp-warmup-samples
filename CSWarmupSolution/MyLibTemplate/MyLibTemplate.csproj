@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Org.Hypernovae.Libs\IServiceContractTemplate.cs" />
     <Compile Include="Org.Hypernovae.Libs\ServiceContract.cs" />
+    <Compile Include="Org.Hypernovae.Libs\ServicesFactory.cs" />
     <Compile Include="Org.Hypernovae.Libs\StringProcessingService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

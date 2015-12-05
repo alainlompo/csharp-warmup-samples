@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyLibTemplate.Org.Hypernovae.Libs;
 
 namespace GoAssembly
 {
@@ -10,11 +11,11 @@ namespace GoAssembly
     {
         static void Main(string[] args)
         {
-            MyLibTemplate.Org.Hypernovae.Libs.StringProcessingService service
-                = new MyLibTemplate.Org.Hypernovae.Libs.StringProcessingService();
+            IServiceContractTemplate<String, String>
+                myStringService = ServicesFactory.GetStringProcessingService();
             Console.Write("Input a string : ");
             String source = Console.ReadLine();
-            String reversed = service.executeContract(source);
+            String reversed = myStringService.executeContract(source);
             Console.WriteLine("The source string reversed becomes: " + reversed);
             Console.ReadKey();
         }
