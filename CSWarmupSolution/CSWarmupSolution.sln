@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAssembly", "GoAssembly\Go
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibTemplate", "MyLibTemplate\MyLibTemplate.csproj", "{CA5B0A44-C75A-4F04-9D79-2EDFEFAFE7E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGithub", "GoGithub\GoGithub.csproj", "{697925C5-9925-4B4C-B7BB-45E64319DA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGithubConsole", "GoGithubConsole\GoGithubConsole.csproj", "{A038AC6A-75EB-4EF6-B51D-0CE88A7C8244}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +107,14 @@ Global
 		{CA5B0A44-C75A-4F04-9D79-2EDFEFAFE7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA5B0A44-C75A-4F04-9D79-2EDFEFAFE7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA5B0A44-C75A-4F04-9D79-2EDFEFAFE7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697925C5-9925-4B4C-B7BB-45E64319DA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697925C5-9925-4B4C-B7BB-45E64319DA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697925C5-9925-4B4C-B7BB-45E64319DA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697925C5-9925-4B4C-B7BB-45E64319DA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A038AC6A-75EB-4EF6-B51D-0CE88A7C8244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A038AC6A-75EB-4EF6-B51D-0CE88A7C8244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A038AC6A-75EB-4EF6-B51D-0CE88A7C8244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A038AC6A-75EB-4EF6-B51D-0CE88A7C8244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
