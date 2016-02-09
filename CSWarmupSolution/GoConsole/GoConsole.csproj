@@ -59,6 +59,11 @@
     <Compile Include="events.handling\ButtonClickEventArgs.cs" />
     <Compile Include="events.handling\ButtonEventHandlingDemo.cs" />
     <Compile Include="ExceptionHandlingDemo.cs" />
+    <Compile Include="generics.constraints\constructor\GenericConstructorConstraint.cs" />
+    <Compile Include="generics.constraints\primary\AGenericClassPrimaryConstraint.cs" />
+    <Compile Include="generics.constraints\primary\AGenericStructPrimaryConstraint.cs" />
+    <Compile Include="generics.constraints\primary\AGenericType.cs" />
+    <Compile Include="generics.constraints\secondary\type.parameter\TypeParameterFactory.cs" />
     <Compile Include="Heater.cs" />
     <Compile Include="IndexerDemo.cs" />
     <Compile Include="IntArrHolder.cs" />
