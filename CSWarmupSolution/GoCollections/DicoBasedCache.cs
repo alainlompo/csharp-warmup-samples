@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace GoCollections
 {
+    /// <summary>
+    /// An abstract generic component that implements the ICacher<T,E> GetElement method using a Dictionary<T,E> object
+    /// The other methods of the ICacher interface remain abstract in order to be implemented
+    /// by a concrete subclass of DicoBasedCache<T,E>
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
+    /// <typeparam name="E"></typeparam>
     abstract class DicoBasedCache<T,E>: ICacher<T,E>
     {
         private Dictionary<E, T> cachedItems = new Dictionary<E, T>();

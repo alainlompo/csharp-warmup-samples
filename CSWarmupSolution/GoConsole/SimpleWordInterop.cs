@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace GoConsole
 {
+    /// <summary>
+    /// Word interop example that illustrates how read the author's name from
+    /// a word document.
+    /// </summary>
     class SimpleWordInterop
     {
         public static String DoInteropDemo(String filePath)

@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace GoCollections
 {
+    /// <summary>
+    /// A generic interface for components with caching abilities
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
+    /// <typeparam name="E"></typeparam>
     interface ICacher<T, E>
     {
          T GetElement(E idObject);

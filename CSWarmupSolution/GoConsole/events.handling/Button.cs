@@ -14,6 +14,10 @@ namespace GoConsole.events.handling
         public EventHandler Clicked { get; set; }
 
 
+        /// <summary>
+        /// Illustrating the standard C# approach to raising events (via OnEvent(...) like methods)
+        /// </summary>
+        /// <param name="button"></param>
         public static void DoClickAndAfter(Button button)
         {
             EventArgs e = new ButtonClickEventArgs(100.5, 200.25);

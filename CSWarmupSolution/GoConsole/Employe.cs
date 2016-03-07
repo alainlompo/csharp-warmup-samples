@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoConsole
 {
+    /// <summary>
+    /// A class used for demo
+    /// </summary>
     class Employe
     {
         public String FirstName { get; set; }

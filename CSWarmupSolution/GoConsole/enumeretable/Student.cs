@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoConsole.enumeretable
 {
+    /// <summary>
+    /// This class is usefull for demos
+    /// </summary>
     class Student
     {
         public double Grade { get; set; }

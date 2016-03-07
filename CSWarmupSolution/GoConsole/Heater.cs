@@ -7,6 +7,11 @@ using System.EnterpriseServices;
 
 namespace GoConsole
 {
+    /// <summary>
+    /// This class illustrates the use of C# delegates in order to raise and handle events
+    /// The HandleTemperature delegate allows us to handle either hot temperature or cool temperature
+    /// (an even is raised when it's too hot or when it's too cool) triggering a process reversal
+    /// </summary>
     [Transaction(TransactionOption.Supported)]
     class Heater
     {
@@ -19,11 +24,20 @@ namespace GoConsole
 
         HandleTemperature coolTemperatureHandler;
         HandleTemperature hotTemperatureHandler;
+
+        /// <summary>
+        /// When it's too hot then let's reverse the air conditioning and cool the place
+        /// </summary>
+        /// <returns></returns>
         public int HandleHotTemperature()
         {
             return -1;
         }
-
+        
+        /// <summary>
+        /// When it's too cool then let's reverse the air conditioning and heat the place
+        /// </summary>
+        /// <returns></returns>
         public int HandleCoolTemperature()
         {
             return +1;

@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace GoConsole.events.handling
 {
+    /// <summary>
+    /// A subclass of EventArgs is used to manage some events that are usefull for the
+    /// handling of a particular event (such as the cartesian coordinate of the place
+    /// on the screen where a click event occured)
+    /// </summary>
     class ButtonClickEventArgs:EventArgs
     {
         public double X { get; set; }

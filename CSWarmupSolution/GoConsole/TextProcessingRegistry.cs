@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace GoConsole
 {
+    /// <summary>
+    /// Registry that allows to store a list of TextProcessingAction
+    /// and provides a method that will iterate over the list and invoke
+    /// each processing method over a given argument.
+    /// </summary>
     class TextProcessingRegistry
     {
         public  List<TextProcessingAction> Processors { get; set; }

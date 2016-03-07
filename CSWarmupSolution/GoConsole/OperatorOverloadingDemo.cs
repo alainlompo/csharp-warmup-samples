@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoConsole
 {
+    /// <summary>
+    /// Demonstrates the operator overloading features of the C# language
+    /// </summary>
     class OperatorOverloadingDemo
     {
         public static void DoArrayPlusDemo()

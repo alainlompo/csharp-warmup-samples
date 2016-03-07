@@ -19,6 +19,12 @@ namespace GoConsole
             return array;
         }
 
+        /// <summary>
+        /// Overloading the binary + operator in order to make it able to sum two IntArrHolders
+        /// </summary>
+        /// <param name="array1"></param>
+        /// <param name="array2"></param>
+        /// <returns></returns>
         public static IntArrHolder operator +(IntArrHolder array1, IntArrHolder array2)
         {
             int minSize = Math.Min(array1.getArray().GetLength(0), array2.getArray().GetLength(0));

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoConsole
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class ArraysDemo
     {
         /// <summary>
@@ -31,8 +34,6 @@ namespace GoConsole
             }
 
             Console.ReadKey();
-
-
         }
 
     }

@@ -7,6 +7,9 @@ using GoFunctional.linq.filtering;
 
 namespace GoFunctional.linq.grouping
 {
+    /// <summary>
+    /// Illustrating linq group by feature...
+    /// </summary>
     class GroupByDemo
     {
         public static void DoGroupByDemo()
