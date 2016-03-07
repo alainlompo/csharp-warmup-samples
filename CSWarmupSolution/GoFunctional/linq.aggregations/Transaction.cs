@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoFunctional.linq.aggregations
 {
+    /// <summary>
+    /// A class used for demos 
+    /// </summary>
     class Transaction
     {
         public DateTime Date { get; set; }

@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace GoFunctional.linq.datasources
 {
+    /// <summary>
+    /// This class implements a custom Text data source to use as a Linq datasource.
+    /// </summary>
     public class TextDataSource
     {
         private static TextDataSource emptyTextDataSource;

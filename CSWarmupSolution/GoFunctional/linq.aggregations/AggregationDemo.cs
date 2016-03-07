@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoFunctional.linq.aggregations
 {
+    /// <summary>
+    /// Demonstrate Aggregation feature
+    /// </summary>
     class AggregationDemo
     {
         public static void DoAggregationDemo()

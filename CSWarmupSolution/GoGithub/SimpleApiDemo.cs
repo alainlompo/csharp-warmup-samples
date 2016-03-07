@@ -9,7 +9,10 @@ namespace GoGithub
 {
     public class SimpleApiDemo
     {
-
+        /// <summary>
+        /// A simple github demo: we access a user by his user name and displays the number
+        /// of followers that he has on github.
+        /// </summary>
         public async void DoGitDemo()
         {
             var github = new GitHubClient(new ProductHeaderValue("MyApps"));
