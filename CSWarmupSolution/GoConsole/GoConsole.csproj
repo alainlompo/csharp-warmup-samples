@@ -59,6 +59,9 @@
     <Compile Include="events.handling\ButtonClickEventArgs.cs" />
     <Compile Include="events.handling\ButtonEventHandlingDemo.cs" />
     <Compile Include="ExceptionHandlingDemo.cs" />
+    <Compile Include="expl.interfaces.method\Car.cs" />
+    <Compile Include="expl.interfaces.method\IDrivable.cs" />
+    <Compile Include="expl.interfaces.method\MotorByke.cs" />
     <Compile Include="generics.constraints\constructor\GenericConstructorConstraint.cs" />
     <Compile Include="generics.constraints\primary\AGenericClassPrimaryConstraint.cs" />
     <Compile Include="generics.constraints\primary\AGenericStructPrimaryConstraint.cs" />
